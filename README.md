@@ -1,4 +1,4 @@
-# :robot: Hello human. It's me, Nuxy, and I go `beep` :curly_loop: `bop` :curly_loop: `boop`
+# :robot: Hello human.  I go `beep` :curly_loop: `bop` :curly_loop: `boop`
 
 ```sh
 ######  @##@     @##@ @##@     @##@ @##@     @##@ @##@    @##@
